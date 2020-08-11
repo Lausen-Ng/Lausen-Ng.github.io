@@ -1,6 +1,5 @@
 /* 
-    Author: Jixiang Wu
-    Data: 2020-08
+	Data: 2020-08
 */
 table#tlayout {
     border: none;
@@ -341,7 +340,11 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+/* 
+	Acknowledgement:
+	I want to thank yongchaoxu (EIC,HUST) for his css style, which give me a big help to build my first html.
 
+*/
 
 
 
